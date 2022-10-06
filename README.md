@@ -15,7 +15,12 @@ Salida
   
   ----------------------------------------------------------------------------------------------------------------------------------------------------------
   
+  ~~~
   -Estudiante: Aldo Francisco Jiménez García
   -Grupo: 1A  Carrera: INGENIERIA INFORMÁTICA
   
       
+  ~~~
+  
+  ## Etapa 3. Diseño de la solución
+  Diagrama de clase 
