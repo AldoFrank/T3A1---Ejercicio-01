@@ -24,3 +24,4 @@ Salida
   
   ## Etapa 3. Diseño de la solución
   Diagrama de clase 
+![](https://github.com/AldoFrank/T3A1---Ejercicio-01/blob/main/T3A1.png)
